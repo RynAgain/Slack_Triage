@@ -4,7 +4,10 @@
 // @version      2.0.0
 // @description  Amazon-themed UI for browsing Sage questions with filtering and cross-site support
 // @author       Ryan Satterfield at Amazon
-
+// @homepage     https://github.com/RynAgain/Slack_Triage
+// @supportURL   https://github.com/RynAgain/Slack_Triage/issues
+// @updateURL    https://raw.githubusercontent.com/RynAgain/Slack_Triage/main/Sage/sage_tags.user.js
+// @downloadURL  https://raw.githubusercontent.com/RynAgain/Slack_Triage/main/Sage/sage_tags.user.js
 // @match        https://*/*
 // @connect      api.us-east-1.prod.sage.amazon.dev
 // @run-at       document-start
